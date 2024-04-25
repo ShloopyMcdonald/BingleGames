@@ -1,0 +1,124 @@
+{
+  "puzzles": [
+    {
+      "date": "2024-04-24",
+      "startWord": "Morning",
+      "endWord": "Yard",
+      "middleWords": [
+        "Coffee",
+        "Break",
+        "Fast",
+        "Food",
+        "Court"
+      ]
+    },
+    {
+      "date": "2024-04-21",
+      "startWord": "Summer",
+      "endWord": "Class",
+      "middleWords": [
+        "Sun",
+        "Light",
+        "House",
+        "Work",
+        "Shop"
+      ]
+    },
+    {
+      "date": "2024-04-10",
+      "startWord": "Night",
+      "endWord": "Spring",
+      "middleWords": [
+        "Sky",
+        "Line",
+        "Up",
+        "Lift",
+        "Off"
+      ]
+    },
+    {
+      "date": "2024-04-11",
+      "startWord": "Book",
+      "endWord": "Canal",
+      "middleWords": [
+        "Mark",
+        "Down",
+        "Town",
+        "Square",
+        "Root"
+      ]
+    },
+    {
+      "date": "2024-04-12",
+      "startWord": "star",
+      "endWord": "ship",
+      "middleWords": [
+        "light",
+        "weight",
+        "class",
+        "room",
+        "mate"
+      ]
+    },
+    {
+      "date": "2024-04-13",
+      "startWord": "rain",
+      "endWord": "mate",
+      "middleWords": [
+        "bow",
+        "tie",
+        "point",
+        "blank",
+        "check"
+      ]
+    },
+    {
+      "date": "2024-04-14",
+      "startWord": "snow",
+      "endWord": "date",
+      "middleWords": [
+        "ball",
+        "park",
+        "bench",
+        "press",
+        "release"
+      ]
+    },
+    {
+      "date": "2024-04-15",
+      "startWord": "water",
+      "endWord": "track",
+      "middleWords": [
+        "fall",
+        "back",
+        "ground",
+        "break",
+        "fast"
+      ]
+    },
+    {
+      "date": "2024-04-16",
+      "startWord": "fire",
+      "endWord": "plan",
+      "middleWords": [
+        "place",
+        "holder",
+        "key",
+        "board",
+        "game"
+      ]
+    },
+    {
+      "date": "2024-04-17",
+      "startWord": "wind",
+      "endWord": "back",
+      "middleWords": [
+        "mill",
+        "stone",
+        "wall",
+        "paper",
+        "cut"
+      ]
+    }
+  ]
+}
