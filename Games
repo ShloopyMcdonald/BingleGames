@@ -1,103 +1,19 @@
 {
   "puzzles": [
     {
-      "date": "2024-05-23",
-      "startWord": "Morning",
-      "endWord": "Yard",
+      "date": "2024-06-22",
+      "startWord": "Wind",
+      "endWord": "Back",
       "middleWords": [
-        "Coffee",
-        "Break",
-        "Fast",
-        "Food",
-        "Court"
+        "Mill",
+        "Stone",
+        "Wall",
+        "Paper",
+        "Cut"
       ]
     },
     {
-      "date": "2024-05-22",
-      "startWord": "Summer",
-      "endWord": "Class",
-      "middleWords": [
-        "Sun",
-        "Light",
-        "House",
-        "Work",
-        "Shop"
-      ]
-    },
-    {
-      "date": "2024-05-21",
-      "startWord": "Night",
-      "endWord": "Spring",
-      "middleWords": [
-        "Sky",
-        "Line",
-        "Up",
-        "Lift",
-        "Off"
-      ]
-    },
-    {
-      "date": "2024-05-20",
-      "startWord": "Book",
-      "endWord": "Canal",
-      "middleWords": [
-        "Mark",
-        "Down",
-        "Town",
-        "Square",
-        "Root"
-      ]
-    },
-    {
-      "date": "2024-05-19",
-      "startWord": "Star",
-      "endWord": "Ship",
-      "middleWords": [
-        "Light",
-        "Weight",
-        "Class",
-        "Room",
-        "Mate"
-      ]
-    },
-    {
-      "date": "2024-05-18",
-      "startWord": "Rain",
-      "endWord": "Mate",
-      "middleWords": [
-        "Bow",
-        "Tie",
-        "Point",
-        "Blank",
-        "Check"
-      ]
-    },
-    {
-      "date": "2024-06-07",
-      "startWord": "Snow",
-      "endWord": "Date",
-      "middleWords": [
-        "Ball",
-        "Park",
-        "Bench",
-        "Press",
-        "Release"
-      ]
-    },
-    {
-      "date": "2024-06-06",
-      "startWord": "Water",
-      "endWord": "Track",
-      "middleWords": [
-        "Fall",
-        "Back",
-        "Ground",
-        "Break",
-        "Fast"
-      ]
-    },
-    {
-      "date": "2024-06-05",
+      "date": "2024-06-21",
       "startWord": "Sulfuric",
       "endWord": "Holder",
       "middleWords": [
@@ -109,15 +25,99 @@
       ]
     },
     {
-      "date": "2024-06-04",
-      "startWord": "Wind",
-      "endWord": "Back",
+      "date": "2024-06-20",
+      "startWord": "Water",
+      "endWord": "Track",
       "middleWords": [
-        "Mill",
-        "Stone",
-        "Wall",
-        "Paper",
-        "Cut"
+        "Fall",
+        "Back",
+        "Ground",
+        "Break",
+        "Fast"
+      ]
+    },
+    {
+      "date": "2024-06-19",
+      "startWord": "Snow",
+      "endWord": "Date",
+      "middleWords": [
+        "Ball",
+        "Park",
+        "Bench",
+        "Press",
+        "Release"
+      ]
+    },
+    {
+      "date": "2024-06-18",
+      "startWord": "Rain",
+      "endWord": "Mate",
+      "middleWords": [
+        "Bow",
+        "Tie",
+        "Point",
+        "Blank",
+        "Check"
+      ]
+    },
+    {
+      "date": "2024-06-17",
+      "startWord": "Star",
+      "endWord": "Ship",
+      "middleWords": [
+        "Light",
+        "Weight",
+        "Class",
+        "Room",
+        "Mate"
+      ]
+    },
+    {
+      "date": "2024-06-16",
+      "startWord": "Book",
+      "endWord": "Canal",
+      "middleWords": [
+        "Mark",
+        "Down",
+        "Town",
+        "Square",
+        "Root"
+      ]
+    },
+    {
+      "date": "2024-06-15",
+      "startWord": "Night",
+      "endWord": "Spring",
+      "middleWords": [
+        "Sky",
+        "Line",
+        "Up",
+        "Lift",
+        "Off"
+      ]
+    },
+    {
+      "date": "2024-06-14",
+      "startWord": "Summer",
+      "endWord": "Class",
+      "middleWords": [
+        "Sun",
+        "Light",
+        "House",
+        "Work",
+        "Shop"
+      ]
+    },
+    {
+      "date": "2024-06-13",
+      "startWord": "Morning",
+      "endWord": "Yard",
+      "middleWords": [
+        "Coffee",
+        "Break",
+        "Fast",
+        "Food",
+        "Court"
       ]
     }
   ]
